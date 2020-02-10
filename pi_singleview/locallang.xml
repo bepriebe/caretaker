@@ -33,8 +33,7 @@
             <label index="lastRunHeader">Last run:</label>
             <label index="configuration">Configuration</label>
             <label index="type">Type</label>
-
-
+            <label index="node_id">Caretaker Node ID</label>
         </languageKey>
         <languageKey index="de" type="array">
             <label index="state">Status</label>
@@ -64,6 +63,7 @@
             <label index="lastRunHeader">Letzter Lauf:</label>
             <label index="configuration">Konfiguration:</label>
             <label index="type">Typ:</label>
+            <label index="node_id">Caretaker Node ID</label>
         </languageKey>
     </data>
 </T3locallang>

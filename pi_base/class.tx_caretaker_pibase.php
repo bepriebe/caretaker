@@ -190,9 +190,10 @@ abstract class tx_caretaker_pibase extends \TYPO3\CMS\Frontend\Plugin\AbstractPl
     /**
      * Get the chart for the node. Has to be implemented in subclasses
      *
-     * @return string
+     * @param tx_caretaker_AbstractNode $node
+     * @return bool|string
      */
-    public function getNodeChart()
+    public function getNodeChart($node)
     {
         return false;
     }

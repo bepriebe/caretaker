@@ -12,6 +12,7 @@
             <label index="7days">7 days</label>
             <label index="30days">30 days</label>
             <label index="time_range">time range (hours)</label>
+            <label index="node_ids">Caretaker Node IDs</label>
         </languageKey>
         <languageKey index="de" type="array">
             <label index="value">Wert</label>
@@ -20,6 +21,7 @@
             <label index="7days">7 Tage</label>
             <label index="30days">30 Tage</label>
             <label index="time_range">Zeitbereich (stunden)</label>
+            <label index="node_ids">Caretaker Node IDs</label>
         </languageKey>
     </data>
 </T3locallang>
